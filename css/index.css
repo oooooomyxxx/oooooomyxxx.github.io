@@ -1464,6 +1464,13 @@ a {
 a:hover {
   color: #49b1f5;
 }
+#site-title,
+#site-subtitle,
+#site-name,
+#aside-content .author-info__name,
+#aside-content .author-info__description {
+  font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
+}
 .is-center {
   text-align: center;
 }
@@ -1699,7 +1706,7 @@ blockquote footer cite:before {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: consolas, Menlo, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+  font-family: consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
 }
 #article-container code {
   padding: 0.1rem 0.2rem;
@@ -2055,6 +2062,7 @@ blockquote footer cite:before {
   padding: 0.5rem;
   text-align: center;
   font-size: 14px;
+  font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
