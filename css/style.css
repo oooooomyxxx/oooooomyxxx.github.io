@@ -14,7 +14,7 @@
 .icon {
   font-family: 'icon';
   font-style: normal;
-  color: #565656;
+  color: #aaa;
 }
 .icon-chevron-bar-up:before {
   content: '\e900';
@@ -55,7 +55,7 @@
 }
 .archives-wrap .archive-year-wrap {
   font-size: 30px;
-  color: #cdcdcd;
+  color: #333;
 }
 .archives-wrap .archives-year-cont {
   padding-top: 5px;
@@ -66,7 +66,7 @@
   transition: all linear 0.2s;
 }
 .archives-wrap .archives-year-cont .archive-item .archive-artDate {
-  color: #565656;
+  color: #aaa;
   font-size: 14px;
   display: block;
   float: left;
@@ -77,13 +77,13 @@
   margin-left: 85px;
 }
 .archives-wrap .archives-year-cont .archive-item .archive-arttitle a {
-  color: #cdcdcd;
+  color: #333;
 }
 .archives-wrap .archives-year-cont .archive-item:hover {
   padding-left: 5px;
 }
 .archives-wrap .archives-year-cont .archive-item:hover .archive-arttitle a:hover {
-  color: #7d7d7d;
+  color: #838383;
 }
 .archive-pagination {
   max-width: 850px;
@@ -130,7 +130,7 @@
   border-top: 2px solid;
   border-bottom: 2px solid;
   border-collapse: collapse;
-  border-color: #fff;
+  border-color: #000;
   margin-bottom: 1em;
 }
 .article-entry .table-container table thead,
@@ -138,7 +138,7 @@
 .article-entry div>table thead {
   line-height: 3em;
   border-bottom: 1px solid;
-  border-color: #fff;
+  border-color: #000;
 }
 .article-entry .table-container table td,
 .article-entry >table td,
@@ -211,11 +211,11 @@
   overflow: hidden;
   text-decoration: none;
   font-weight: 200;
-  color: #cdcdcd;
+  color: #333;
 }
 .post-item .post-item-datetag {
   margin-bottom: 10px;
-  color: #565656;
+  color: #aaa;
   font-size: 16px;
 }
 .post-item .post-item-datetag .post-item-date {
@@ -245,7 +245,7 @@
 }
 .post-item blockquote p {
   text-indent: 0;
-  color: #7d7d7d;
+  color: #838383;
 }
 .post-item blockquote p:before {
   content: '“';
@@ -291,10 +291,10 @@
   overflow: hidden;
   text-decoration: none;
   font-weight: 400;
-  color: #cdcdcd;
+  color: #333;
 }
 .post .post-datetag {
-  color: #565656;
+  color: #aaa;
   font-size: 14px;
   margin-bottom: 10px;
 }
@@ -309,11 +309,11 @@
   margin-left: 20px;
 }
 .post .post-datetag .post-tag a {
-  color: #565656;
+  color: #aaa;
   text-decoration: none;
 }
 .post .post-cc {
-  color: #cdcdcd;
+  color: #333;
   font-size: 16px;
   margin-bottom: 20px;
 }
@@ -336,7 +336,7 @@
 }
 .post blockquote p {
   text-indent: 0;
-  color: #7d7d7d;
+  color: #838383;
 }
 .post blockquote p:before {
   content: '“';
@@ -401,7 +401,7 @@
   margin-bottom: 1.5em;
 }
 .footer-msg a {
-  color: #565656;
+  color: #aaa;
   text-decoration: none;
 }
 .barShow-head {
@@ -419,7 +419,7 @@
   margin-bottom: 10px;
 }
 .barShow-ul .barShow-item a {
-  color: #cdcdcd;
+  color: #333;
   font-size: 16px;
   display: inline-block;
   margin: 8px auto;
@@ -513,7 +513,7 @@
   font-size: 24px;
   font-weight: 200;
   text-decoration: none;
-  color: #cdcdcd;
+  color: #333;
 }
 .head-right {
   float: right;
@@ -527,14 +527,14 @@
   width: 166px;
   height: 38px;
   border-bottom: 1px solid;
-  border-color: #333;
+  border-color: #eee;
 }
 .head-right .head-search .head-searchK:focus {
   outline: none;
 }
 .head-right .head-search .head-searchT {
   margin-left: 20px;
-  color: #9a9a9a;
+  color: #666;
 }
 .head-right .head-about {
   display: inline-block;
@@ -542,7 +542,7 @@
 }
 .head-right .head-about .head-aboutLink {
   text-decoration: none;
-  color: #9a9a9a;
+  color: #666;
 }
 .head-right .barWrap {
   display: none;
@@ -557,7 +557,7 @@
   display: block;
   width: 22px;
   height: 2px;
-  background-color: #9a9a9a;
+  background-color: #666;
   border-radius: 1px;
 }
 .head-right .barWrap .bar + .bar {
@@ -570,11 +570,11 @@ pre {
   padding: 7px;
   font-size: 16px;
   font-family: 'Inconsolata', 'monospace', 'Open Sans', 'Microsoft Yahei', sans-serif;
-  background-color: #333;
+  background-color: #f5f5f5;
 }
 code {
   padding: 3px 5px;
-  color: #fff;
+  color: #000;
 }
 .highlight {
   margin: 1em 0;
@@ -598,8 +598,8 @@ code {
   padding: 0.25em;
   margin: 0.5em 1em;
   border-radius: 5px;
-  border-color: #565656;
-  background-color: #101010;
+  border-color: #aaa;
+  background-color: #fff;
   cursor: pointer;
 }
 @media (max-width: 750px) {
@@ -611,10 +611,10 @@ code {
   font-size: 20px;
 }
 .highlight table .clipboard-btn:hover {
-  background-color: #565656;
+  background-color: #aaa;
 }
 .highlight table .clipboard-btn:hover i {
-  color: #cdcdcd;
+  color: #333;
 }
 .highlight .code pre {
   margin: 0;
@@ -688,19 +688,19 @@ code {
   float: left;
   width: 19%;
   padding-top: 40px;
-  color: #9a9a9a;
+  color: #666;
 }
 .menu-nav .menu-nav-item {
-  color: #565656;
+  color: #aaa;
   font-size: 14px;
 }
 .menu-nav .menu-nav-item .menu-nav-item-tit {
   padding-bottom: 5px;
   border-bottom: 1px solid;
-  border-color: #565656;
+  border-color: #aaa;
 }
 .menu-nav .menu-nav-item .menu-nav-item-tit a {
-  color: #cdcdcd;
+  color: #333;
   font-size: 16px;
 }
 .menu-nav div.menu-nav-item:not(:first-of-type) {
@@ -716,33 +716,33 @@ code {
   word-wrap: break-word;
 }
 .menu-nav-item-cont .menu-nav-item a {
-  color: #cdcdcd;
+  color: #333;
 }
 .menu-nav-item-cont .menu-nav-item.empty {
-  color: #9a9a9a;
+  color: #666;
 }
 .menu-nav-item-cont.archives .archive-list-item {
   height: 2em;
   line-height: 2em;
 }
 .menu-nav-item-cont.archives .archive-list-item a {
-  color: #cdcdcd;
+  color: #333;
 }
 .menu-nav-item-cont.tags .tag-list-item {
   display: inline-block;
   padding: 0px 10px 7px 0px;
 }
 .menu-nav-item-cont.tags .tag-list-item a {
-  color: #cdcdcd;
+  color: #333;
 }
 .menu-nav-item-cont.tags .tag-list-item .tag-list-count {
   vertical-align: super;
   font-size: 0.6em;
   margin-top: -0.5em;
-  color: #9a9a9a;
+  color: #666;
 }
 .post-widget {
-  color: #565656;
+  color: #aaa;
   font-size: 14px;
   padding-top: 1em;
   width: 20%;
@@ -752,8 +752,8 @@ code {
   padding-bottom: 0.25em;
   margin-bottom: 0.75em;
   border-bottom: 1px solid;
-  border-color: #333;
-  color: #9a9a9a;
+  border-color: #eee;
+  color: #666;
 }
 .post-widget .post-toc-wrap .post-toc .post-toc-item {
   line-height: 1.75em;
@@ -784,7 +784,7 @@ code {
   height: 100%;
   margin-right: 6.666666666666667px;
   border-radius: 50%;
-  background-color: #565656;
+  background-color: #aaa;
   animation: load 1.04s ease infinite;
 }
 .loading span:last-child {
@@ -841,13 +841,13 @@ html {
   font-size: 16px;
   font-family: 'Noto Sans', 'Noto Sans SC';
   box-sizing: border-box;
-  background-color: #101010;
+  background-color: #fff;
   scroll-behavior: smooth;
 }
 body {
   padding: 0;
   margin: 0;
-  color: #cdcdcd;
+  color: #333;
   vertical-align: baseline;
 }
 * {
@@ -862,10 +862,10 @@ body {
 }
 a,
 a:visited {
-  color: #565656;
+  color: #aaa;
 }
 a:hover {
-  color: #9a9a9a;
+  color: #666;
 }
 img {
   max-width: 100%;
@@ -885,8 +885,8 @@ del {
   right: 0;
   left: 0;
   border-bottom: 1px solid;
-  border-color: #343434;
-  background-color: #101010;
+  border-color: #ccc;
+  background-color: #fff;
 }
 @media screen and (max-width: 750px) {
   .head {
@@ -916,11 +916,11 @@ del {
     position: fixed;
     left: 0px;
     top: 65px;
-    background-color: #101010;
+    background-color: #fff;
     width: 100%;
     border-top: 1px solid;
     border-bottom: 2px solid;
-    border-color: #333;
+    border-color: #eee;
   }
   #post {
     width: 100%;
@@ -968,7 +968,7 @@ del {
   float: left;
 }
 .page .footer-nav .footer {
-  color: #565656;
+  color: #aaa;
   font-size: 14px;
   margin: 0 auto;
   padding: 20px 0;
@@ -994,7 +994,7 @@ del {
   font-weight: 600;
 }
 .page .back-top .icon:hover {
-  color: #9a9a9a;
+  color: #666;
 }
 .nav-icon {
   display: inline-block;
@@ -1017,30 +1017,30 @@ del {
 }
 #index-content .post-item + .post-item {
   border-top: 1px solid;
-  border-color: #333;
+  border-color: #eee;
 }
 .tags-wrap {
   max-width: 850px;
   margin: 0 auto;
   padding-top: 40px;
-  color: #cdcdcd;
+  color: #333;
 }
 .tags-wrap .tags {
   padding-bottom: 5px;
 }
 .tags-wrap .tags a {
-  color: #565656;
+  color: #aaa;
   font-size: 16px;
   padding-right: 10px;
   line-height: 25px;
 }
 .tags-wrap .tags a:hover {
-  color: #cdcdcd;
+  color: #333;
 }
 .tags-wrap .one-tag-list .tag-text {
   margin: 20px 0 10px 0;
   font-size: 24px;
-  color: #cdcdcd;
+  color: #333;
 }
 .tags-wrap .one-tag-list .post-preview {
   line-height: 35px;
@@ -1048,19 +1048,19 @@ del {
 .tags-wrap .one-tag-list .post-preview .tag-item-date {
   display: block;
   float: left;
-  color: #565656;
+  color: #aaa;
 }
 .tags-wrap .one-tag-list .post-preview .post-title {
   display: inline-block;
   text-indent: 2em;
-  color: #cdcdcd;
+  color: #333;
 }
 .category {
   max-width: 850px;
   margin: 0 auto;
 }
 .category .signature {
-  color: #565656;
+  color: #aaa;
   font-size: 16px;
   width: 100%;
   text-align: center;
@@ -1074,7 +1074,7 @@ del {
   font-size: 30px;
 }
 .about {
-  color: #cdcdcd;
+  color: #333;
   font-size: 16px;
   margin-top: 30px;
   line-height: 20px;
