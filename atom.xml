@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>OooooomyXXX</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-04-07T03:50:43.991Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>oooooomyxxx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一个Java程序</title>
+    <link href="http://example.com/2022/03/17/%E7%AC%AC%E4%B8%80%E4%B8%AAjava%E7%A8%8B%E5%BA%8F/"/>
+    <id>http://example.com/2022/03/17/%E7%AC%AC%E4%B8%80%E4%B8%AAjava%E7%A8%8B%E5%BA%8F/</id>
+    <published>2022-03-17T14:54:40.000Z</published>
+    <updated>2022-04-07T03:50:43.991Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">hello</span>&#123;</span><br><span class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span>&#123;</span><br><span class="line">        System.out.println(<span class="string">&quot;Hello java world&quot;</span>);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure><ul><li>标题字体：思源黑体</li><li>正文字体：思源宋体</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;&lt;/a&gt;标题&lt;/h1&gt;&lt;figure class=&quot;highlight java&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span c</summary>
+      
+    
+    
+    
+    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    
+    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+    <category term="java" scheme="http://example.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>摘山月记</title>
+    <link href="http://example.com/2022/03/17/%E6%91%98%E5%B1%B1%E6%9C%88%E8%AE%B0/"/>
+    <id>http://example.com/2022/03/17/%E6%91%98%E5%B1%B1%E6%9C%88%E8%AE%B0/</id>
+    <published>2022-03-17T14:53:41.000Z</published>
+    <updated>2022-04-06T00:44:10.899Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>我深怕自己并非美玉，故而不敢加以刻苦折磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。于是我渐渐地脱离凡尘，疏远世人，结果便是一任愤懑与羞恨日益助长内心那怯弱地自尊心。</li><li>无非是害怕暴露自己才华不足之卑劣的恐惧和不肯刻苦用功的无耻之怠惰而已……</li><li>摘自中岛敦《山月记》</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;我深怕自己并非美玉，故而不敢加以刻苦折磨，却又半信自己是块美玉，故又不肯庸庸碌碌，与瓦砾为伍。于是我渐渐地脱离凡尘，疏远世人，结果便是一任愤懑与羞恨日益助长内心那怯弱地自尊心。&lt;/li&gt;
+&lt;li&gt;无非是害怕暴露自己才华不足之卑劣的恐惧和不肯刻苦用功的无耻之怠惰而</summary>
+      
+    
+    
+    
+    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    
+    <category term="读读书" scheme="http://example.com/tags/%E8%AF%BB%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lacan三界理论</title>
+    <link href="http://example.com/2022/03/17/Lacan%E4%B8%89%E7%95%8C%E7%90%86%E8%AE%BA/"/>
+    <id>http://example.com/2022/03/17/Lacan%E4%B8%89%E7%95%8C%E7%90%86%E8%AE%BA/</id>
+    <published>2022-03-17T14:52:25.000Z</published>
+    <updated>2022-04-07T03:51:45.949Z</updated>
+    
+    <content type="html"><![CDATA[<p>达利曾经说过:靠芳香和谬误生活</p><ul><li>佛洛依德曾经说过:拉开帘子看看</li><li>而lacan说:拉了,链子后边什么都没有<br>达利就是用他的近乎痴狂不屈的意志和大他者永远的斗争着</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;达利曾经说过:靠芳香和谬误生活&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;佛洛依德曾经说过:拉开帘子看看&lt;/li&gt;
+&lt;li&gt;而lacan说:拉了,链子后边什么都没有&lt;br&gt;达利就是用他的近乎痴狂不屈的意志和大他者永远的斗争着&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      
+    
+    
+    
+    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    
+    <category term="lacan" scheme="http://example.com/tags/lacan/"/>
+    
+    <category term="精神分析" scheme="http://example.com/tags/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>赠汪伦</title>
+    <link href="http://example.com/2022/03/17/%E8%B5%A0%E6%B1%AA%E4%BC%A6/"/>
+    <id>http://example.com/2022/03/17/%E8%B5%A0%E6%B1%AA%E4%BC%A6/</id>
+    <published>2022-03-17T14:50:58.000Z</published>
+    <updated>2022-04-07T03:51:34.549Z</updated>
+    
+    <content type="html"><![CDATA[<p>李白乘舟将欲行<br>忽闻岸上踏歌声<br>桃花潭水深千尺<br>不及汪伦赠我情</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;李白乘舟将欲行&lt;br&gt;忽闻岸上踏歌声&lt;br&gt;桃花潭水深千尺&lt;br&gt;不及汪伦赠我情&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="分类1" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+    
+    <category term="李白" scheme="http://example.com/tags/%E6%9D%8E%E7%99%BD/"/>
+    
+    <category term="唐诗" scheme="http://example.com/tags/%E5%94%90%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一个C语言程序</title>
+    <link href="http://example.com/2022/03/17/%E7%AC%AC%E4%B8%80%E4%B8%AAC%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F/"/>
+    <id>http://example.com/2022/03/17/%E7%AC%AC%E4%B8%80%E4%B8%AAC%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F/</id>
+    <published>2022-03-17T14:46:09.000Z</published>
+    <updated>2022-04-07T03:50:17.795Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line"><span class="built_in">printf</span>(<span class="string">&quot;hello world&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;li</summary>
+      
+    
+    
+    
+    <category term="分类2" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB2/"/>
+    
+    
+    <category term="C语言" scheme="http://example.com/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+</feed>
